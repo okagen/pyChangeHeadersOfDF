@@ -16,13 +16,13 @@ Image of H19<br>
 ## 1 : Proceture
 ### 1-1 : Extract only necessary columns from the header list and convert them to a dictionary.
 Header Listから変更前と後のヘッダ名が書いてある列を抽出し、dictoionaryに変換。  
-<img src="https://github.com/okagen/pyChangeHeadersOfDF/blob/master/Data/headerName_before_after_dictionary.png" width="400">
+<img src="https://github.com/okagen/pyChangeHeadersOfDF/blob/master/Data/headerName_before_after_dictionary.png" width="600">
 
 ### 1-2 : Read target file as a DataFrame.
 ターゲットファイルを読み込み、DataFrameに保存。
 
 ### 1-3 : Change the header name of the DataFrame using the dictionary.
-dictionaryを使って、DataFrameのヘッダ名を変更。
+dictionaryを使って、DataFrameのヘッダ名を変更。  
 <img src="https://github.com/okagen/pyChangeHeadersOfDF/blob/master/Data/dataframe_before_after.png" width="400">
 
 ### An addition : Add the original header names on the first line of the DataFrame.
