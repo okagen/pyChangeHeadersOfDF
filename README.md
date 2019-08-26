@@ -27,6 +27,3 @@ dictionaryを使って、DataFrameのヘッダ名を変更。
 
 ### An addition : Add the original header names on the first line of the DataFrame.
 追加：1行目に、オリジナルのヘッダ名を追加する。
-
-
-
